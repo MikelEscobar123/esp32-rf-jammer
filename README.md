@@ -78,9 +78,7 @@ saltando aleatoriamente entre canales de la banda 2.4GHz (canales 2–79).
 ## PCB
 
 Diseño personalizado en KiCad actualmente **en progreso**.
-Los archivos del esquemático y PCB estarán disponibles en este repositorio
-cuando el diseño esté terminado.
-
+El esquemático está completo y el layout sin enrutar. Los archivos están disponibles por si alguien quiere modificar o continuar el diseño.
 ---
 
 ## Créditos y referencias
