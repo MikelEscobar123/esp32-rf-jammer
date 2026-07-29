@@ -254,3 +254,10 @@ void loop() {
     one();
   }
 }
+```
+
+## Fotos
+
+<img width="234" height="473" alt="esp32-jammer-fotomontaje" src="https://github.com/user-attachments/assets/fcd12bf5-8540-49e1-aa1f-e1d991bc82d4" />
+<img width="671" height="396" alt="image" src="https://github.com/user-attachments/assets/a82a6f68-9faa-4b78-a9a4-034ee24db784" />
+
